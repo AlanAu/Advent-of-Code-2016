@@ -52,4 +52,4 @@ for _ in valFile:
 out0 = int(botValues["output 0"][0])
 out1 = int(botValues["output 1"][0])
 out2 = int(botValues["output 2"][0])
-print("The product of outputs 0, 1, and 2 is",out0*out1*out2)
+print("The product of outputs 0, 1, and 2 is:",out0*out1*out2)
