@@ -1,0 +1,3 @@
+thG,thM,pG,sG
+pM,sM
+prG,prG,rG,rM
