@@ -49,9 +49,9 @@ In this example, the correct checksum would therefore be 01100.
 
 The first disk you have to fill has length 272. Using the initial state in your puzzle input, what is the correct checksum?
 
-Your puzzle input is 11100010111110100.
+Your puzzle input is 11101000110010100.
 '''
-original = list('11100010111110100')
+original = list('11101000110010100')
 input = list(original)
 disk = 272
 output = []

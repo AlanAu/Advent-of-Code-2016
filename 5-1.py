@@ -23,7 +23,7 @@ output: str
 import re
 import hashlib
 #input = "abc" #pwd should be: 18f47a30
-input = "reyedfim"
+input = "cxdnnyjw"
 track = 0
 found = 0
 doorPwd = ""

@@ -4,9 +4,9 @@
 
 The second disk you have to fill has length 35651584. Again using the initial state in your puzzle input, what is the correct checksum for this disk?
 
-Your puzzle input is still 11100010111110100.
+Your puzzle input is still 11101000110010100.
 '''
-original = list('11100010111110100')
+original = list('11101000110010100')
 input = list(original)
 disk = 35651584
 output = []

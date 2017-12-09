@@ -25,17 +25,16 @@ If, however, you wait until time=5 to push the button, then when the capsule rea
 However, your situation has more than two discs; you've noted their positions in your puzzle input. What is the first time you can press the button to get a capsule?
 
 Your puzzle input:
-Disc #1 has 13 positions; at time=0, it is at position 11.
-Disc #2 has 5 positions; at time=0, it is at position 0.
-Disc #3 has 17 positions; at time=0, it is at position 11.
-Disc #4 has 3 positions; at time=0, it is at position 0.
-Disc #5 has 7 positions; at time=0, it is at position 2.
-Disc #6 has 19 positions; at time=0, it is at position 17.
-
+Disc #1 has 17 positions; at time=0, it is at position 1.
+Disc #2 has 7 positions; at time=0, it is at position 0.
+Disc #3 has 19 positions; at time=0, it is at position 2.
+Disc #4 has 5 positions; at time=0, it is at position 0.
+Disc #5 has 3 positions; at time=0, it is at position 0.
+Disc #6 has 13 positions; at time=0, it is at position 5.
 '''
 time = 0
-disc = [13,5,17,3,7,19]
-now = [11,0,11,0,2,17]
+disc = [17,7,19,5,3,13]
+now = [1,0,2,0,0,5]
 solved = 0
 
 while solved == 0:

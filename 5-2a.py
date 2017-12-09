@@ -26,7 +26,7 @@ import sys
 from random import randint
 
 #input = "abc" #pwd should be: 05ace8e3
-#input = "reyedfim"
+#input = "cxdnnyjw"
 input = input("Enter Door ID: ")
 track = 0
 found = 0
